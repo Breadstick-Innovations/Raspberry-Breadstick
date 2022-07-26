@@ -1410,6 +1410,15 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/527ab700-d400-437d-a8eb-3049c5635be2"
       (reference "C222") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1e51e080-586f-4aa6-90a8-60a185505853"
+      (reference "C?") (unit 1) (value "1uF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/2bfea205-730a-4de2-91d2-be7cf88056d7"
+      (reference "C?") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/f19c8bb4-e53a-40d3-a102-36fb06ffcc5b"
+      (reference "C?") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
+    )
     (path "/9a621e43-d56d-430c-9f37-f1ecf1a02a85"
       (reference "D101") (unit 1) (value "LED_Filled") (footprint "LED_SMD:LED_0805_2012Metric")
     )
@@ -1472,6 +1481,27 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/d8379761-9055-48bd-a006-b2425ef663dc"
       (reference "R214") (unit 1) (value "5k1") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/2257c526-d325-47c1-9d0d-bdbf0b551c56"
+      (reference "R?") (unit 1) (value "5.1k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/3cfa2031-79b0-47c2-a278-13e7562f216d"
+      (reference "R?") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/69e2f92e-02ec-4d39-9a59-cf22004ae6e4"
+      (reference "R?") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/85b5844a-6757-429b-aad9-c4b00bcab8f0"
+      (reference "R?") (unit 1) (value "1k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/9d8d7b97-07e1-42d9-855c-30f3b558df93"
+      (reference "R?") (unit 1) (value "5k1") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/bd76d942-4ed2-4cab-8982-6ee0dc04290f"
+      (reference "R?") (unit 1) (value "27") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/fdd408ca-5d6d-48c9-8073-ad1770355341"
+      (reference "R?") (unit 1) (value "1k") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/e16212df-eb92-4187-84ec-cff954363993"
       (reference "SW202") (unit 1) (value "~{USB_BOOT}") (footprint "Breadstick Footprints:GT-TC029B-H025-L1N")
