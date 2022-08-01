@@ -532,6 +532,14 @@
     [
       "964c60fe-ac5c-4a4d-a168-812dbf3a649c",
       "Addressable RGB LEDs"
+    ],
+    [
+      "b54c3862-639e-4b03-9fc6-28e0c3c13c33",
+      "IMU 3D Accel and 3D Gyro"
+    ],
+    [
+      "4bb2fe32-0276-4922-8b52-341100702add",
+      "Power"
     ]
   ],
   "text_variables": {}
