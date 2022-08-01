@@ -443,7 +443,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RP2040 Dev Board.kicad_pro",
+    "filename": "RP2040-Breadstick.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -483,7 +483,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 300,
     "drawing": {
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
@@ -528,6 +528,10 @@
     [
       "3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc",
       "RP2040"
+    ],
+    [
+      "964c60fe-ac5c-4a4d-a168-812dbf3a649c",
+      "Addressable RGB LEDs"
     ]
   ],
   "text_variables": {}
