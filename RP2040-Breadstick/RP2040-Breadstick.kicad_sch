@@ -932,6 +932,28 @@
     (pin "2" (uuid cc8729cb-34c6-4ed5-83e7-9e6252e4fcd0))
   )
 
+  (symbol (lib_id "Device:R") (at 252.73 62.23 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 593560bd-4d6c-4fcf-a43c-41d22707600e)
+    (property "Reference" "R?" (id 0) (at 255.27 60.9599 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "" (id 1) (at 255.27 63.4999 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (id 2) (at 250.952 62.23 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 252.73 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "JLCPCB P/N" "C166182" (id 4) (at 252.73 62.23 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 361f552e-b3b5-4c1d-86d6-43d53614453f))
+    (pin "2" (uuid e6aac409-58bf-43b2-86dd-1f74ec69d2cb))
+  )
+
   (symbol (lib_id "Device:R") (at 153.67 115.57 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6f89c0b4-bec1-4c79-ab8d-4f8fd5c443b3)
@@ -1502,6 +1524,9 @@
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/441f9813-3e53-4e8a-b4b4-b4f7441e906d"
       (reference "#PWR0324") (unit 1) (value "GND") (footprint "")
     )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/a44bbdc9-7303-467d-a41c-2c47929d21ef"
+      (reference "#PWR0325") (unit 1) (value "GND") (footprint "")
+    )
     (path "/1f727cc3-6799-4fe6-96e4-4470e0ff0d7f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -1772,6 +1797,18 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/77f99ef5-e413-4cea-b481-32ea5fc37dbf"
       (reference "R109") (unit 1) (value "1k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/050cee12-8c84-472b-b682-faa739970a09"
+      (reference "R301") (unit 1) (value "470") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/d240f135-f9e7-4590-9ae5-5dff8955ff9c"
+      (reference "R302") (unit 1) (value "470") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/37db672f-4132-47ad-b34b-cf79efdd31f4"
+      (reference "R303") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/0e5bd25b-f7f7-4aa3-b83c-44e986798f56"
+      (reference "R304") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
     (path "/0ec32ea4-6896-45d5-86ac-b045b460ba35"
       (reference "R?") (unit 1) (value "1k") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
     )
@@ -1780,6 +1817,9 @@
     )
     (path "/579ca9fd-58ac-4d33-b579-7906739f484f"
       (reference "R?") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    )
+    (path "/593560bd-4d6c-4fcf-a43c-41d22707600e"
+      (reference "R?") (unit 1) (value "470") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
     (path "/8a13881a-67a2-4717-9f77-9c72dfd544ce"
       (reference "R?") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
