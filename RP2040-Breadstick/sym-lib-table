@@ -2,5 +2,6 @@
   (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/RP2040/RP2040.lib")(options "")(descr ""))
   (lib (name "TYPE-C-31-M-12")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TYPE-C-31-M-12/TYPE-C-31-M-12.lib")(options "")(descr ""))
   (lib (name "TPD4E05U06DQAR")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TPD4E05U06DQAR/TPD4E05U06DQAR.lib")(options "")(descr ""))
-  (lib (name "LSM6DS3TR-C")(type "Legacy")(uri "C:/Users/LatteFox/Documents/GitHub/RP2040-Breadstick/Peripheral Test Boards/3DAccel_3DGyro_LSM6DS3TR/LSM6DS3TR-C.lib")(options "")(descr ""))
+  (lib (name "TXB0102DCUR")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TXB0102DCUR/TXB0102DCUR.lib")(options "")(descr ""))
+  (lib (name "LSM6DS3TR-C")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/LSM6DS3TR-C/LSM6DS3TR-C.lib")(options "")(descr ""))
 )
