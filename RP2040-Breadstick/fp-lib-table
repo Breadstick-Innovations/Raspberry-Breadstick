@@ -4,4 +4,5 @@
   (lib (name "X322516MLB4SI")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/X322516MLB4SI")(options "")(descr ""))
   (lib (name "TPD4E05U06DQAR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TPD4E05U06DQAR")(options "")(descr ""))
   (lib (name "TXB0102DCUR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TXB0102DCUR")(options "")(descr ""))
+  (lib (name "LSM6DS3TR-C")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/LSM6DS3TR-C")(options "")(descr ""))
 )
