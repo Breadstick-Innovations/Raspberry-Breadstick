@@ -811,14 +811,14 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/68e67986-237f-4954-a45f-4b7d13f5dfb0"
       (reference "C211") (unit 1) (value "1uF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/6aa0447e-d060-4020-8348-733a8f6a481b"
-      (reference "C212") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4a7b080c-9bb0-40da-b86e-fc8ce5ed3be7"
+      (reference "C212") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ecf36bab-ced8-400e-bc10-6d423f8e886b"
-      (reference "C213") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/379da4be-d263-4ce7-a8dc-4c6ca6d5dedd"
+      (reference "C213") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/527ab700-d400-437d-a8eb-3049c5635be2"
-      (reference "C214") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1e1f32da-c4a2-4c6f-8258-b4c74f4dc9f7"
+      (reference "C214") (unit 1) (value "1uF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/f05b804e-a54e-42bb-b8a9-74a34a920ad4"
       (reference "C301") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
@@ -1102,14 +1102,14 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/26defb43-83a3-447e-9452-a502b62e4e3d"
       (reference "R201") (unit 1) (value "1k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b306e5e3-2f8a-4ace-9e74-2a7aea3b473d"
-      (reference "R202") (unit 1) (value "27") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/0641abdd-2de1-4450-a4b0-af8d9cc4d65d"
+      (reference "R202") (unit 1) (value "27") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/acfe044f-a81d-4be2-8e62-8c9307752e74"
       (reference "R203") (unit 1) (value "5.1k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/da4563ca-9f8b-40e4-ae8a-85aef9697d0b"
-      (reference "R204") (unit 1) (value "27") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/9d20904a-9647-46df-aa63-ac622d908f7b"
+      (reference "R204") (unit 1) (value "27") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/e10b8471-6dcd-466a-9a15-805386dc603a"
       (reference "R205") (unit 1) (value "5.1k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
@@ -1135,8 +1135,8 @@
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/0e5bd25b-f7f7-4aa3-b83c-44e986798f56"
       (reference "R305") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
-    (path "/4bb2fe32-0276-4922-8b52-341100702add/2722372d-d85f-4afe-9668-f9c396858e23"
-      (reference "R501") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0402_Resistor")
+    (path "/4bb2fe32-0276-4922-8b52-341100702add/9df04de5-fc4b-44a2-b0d7-c931feb11554"
+      (reference "R501") (unit 1) (value "10k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/e16212df-eb92-4187-84ec-cff954363993"
       (reference "SW201") (unit 1) (value "~{USB_BOOT}") (footprint "Breadstick Footprints:GT-TC029B-H025-L1N")
