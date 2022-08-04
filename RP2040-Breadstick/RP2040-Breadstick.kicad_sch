@@ -332,6 +332,28 @@
     (pin "2" (uuid ce6334da-b3a8-4360-8612-c4f66f32050c))
   )
 
+  (symbol (lib_id "Device:C") (at 76.2 128.27 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 5682f88e-f517-4df7-a9c6-71d974b02487)
+    (property "Reference" "C106" (id 0) (at 80.01 127 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "30pF" (id 1) (at 80.01 129.54 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Breadstick Footprints:Perfect_0201_Cap" (id 2) (at 77.1652 132.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 76.2 128.27 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "JLCPCB P/N" "C384981" (id 4) (at 76.2 128.27 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ca7dc9cb-c16e-4c37-970c-27b942a5a7e8))
+    (pin "2" (uuid 6e5e3d92-cdf9-42e6-94a9-9762d1429ab6))
+  )
+
   (symbol (lib_id "Device:R") (at 50.8 134.62 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 579ca9fd-58ac-4d33-b579-7906739f484f)
@@ -374,6 +396,24 @@
     )
     (pin "1" (uuid 361f552e-b3b5-4c1d-86d6-43d53614453f))
     (pin "2" (uuid e6aac409-58bf-43b2-86dd-1f74ec69d2cb))
+  )
+
+  (symbol (lib_id "Device:R") (at 107.95 115.57 180) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 78122292-07ad-49c4-b498-7401d1b7b596)
+    (property "Reference" "R109" (id 0) (at 105.41 115.57 90))
+    (property "Value" "27" (id 1) (at 107.95 115.57 90))
+    (property "Footprint" "Breadstick Footprints:Perfect_0201_Resistor" (id 2) (at 109.728 115.57 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 107.95 115.57 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "JLCPCB P/N" "C367568" (id 4) (at 107.95 115.57 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 60006d9a-50b7-4dff-aca9-8a3f0778cdc4))
+    (pin "2" (uuid cc86ea4e-86cf-4f4f-9f48-04b49c4b5fd2))
   )
 
   (symbol (lib_id "Device:C_Small") (at 29.21 114.3 0) (unit 1)
@@ -778,6 +818,9 @@
     (path "/546c2131-39ce-4dda-b32f-39f69c0f96c8"
       (reference "C105") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
+    (path "/5682f88e-f517-4df7-a9c6-71d974b02487"
+      (reference "C106") (unit 1) (value "30pF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/60f0a441-1a89-413d-b448-14aa5618f9cf"
       (reference "C201") (unit 1) (value "1uF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
     )
@@ -1098,6 +1141,9 @@
     )
     (path "/593560bd-4d6c-4fcf-a43c-41d22707600e"
       (reference "R108") (unit 1) (value "470") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
+    )
+    (path "/78122292-07ad-49c4-b498-7401d1b7b596"
+      (reference "R109") (unit 1) (value "27") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/26defb43-83a3-447e-9452-a502b62e4e3d"
       (reference "R201") (unit 1) (value "1k") (footprint "Breadstick Footprints:Perfect_0201_Resistor")
