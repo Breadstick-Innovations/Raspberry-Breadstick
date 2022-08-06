@@ -427,7 +427,7 @@
 
   (footprint "Breadstick Footprints:Perfect_0201_Resistor" (layer "F.Cu")
     (tedit 0) (tstamp 1452f510-68cb-471e-a2d7-5f55b38265b4)
-    (at 124.46 98.806 -90)
+    (at 147.11 96.82 -90)
     (property "JLCPCB P/N" "C2092258")
     (property "Sheetfile" "SK9822_RGB_LED_Strip.kicad_sch")
     (property "Sheetname" "Addressable RGB LEDs")
@@ -1155,7 +1155,7 @@
 
   (footprint "Breadstick Footprints:Perfect_0402_Cap" (layer "F.Cu")
     (tedit 6225627D) (tstamp 4116bfc2-eab3-4c29-a983-44eacd9f10f5)
-    (at 130.048 99.06 180)
+    (at 152.86 97.32 180)
     (property "JLCPCB P/N" "C15525")
     (property "Sheetfile" "SK9822_RGB_LED_Strip.kicad_sch")
     (property "Sheetname" "Addressable RGB LEDs")
@@ -1303,7 +1303,7 @@
 
   (footprint "Breadstick Footprints:Perfect_0402_Cap" (layer "F.Cu")
     (tedit 6225627D) (tstamp 45899113-d22e-4a5b-822e-9aca23b124ee)
-    (at 124.206 100.322 180)
+    (at 146.86 98.32 180)
     (property "JLCPCB P/N" "C15525")
     (property "Sheetfile" "SK9822_RGB_LED_Strip.kicad_sch")
     (property "Sheetname" "Addressable RGB LEDs")
@@ -2080,7 +2080,7 @@
 
   (footprint "Breadstick Footprints:Perfect_0201_Resistor" (layer "F.Cu")
     (tedit 0) (tstamp 73253d10-4cc8-408c-9b6e-d19dd7613af9)
-    (at 120.396 178.2665)
+    (at 151.6 176.93)
     (property "JLCPCB P/N" "C2092258")
     (property "Sheetfile" "SK9822_RGB_LED_Strip.kicad_sch")
     (property "Sheetname" "Addressable RGB LEDs")
@@ -2644,7 +2644,7 @@
 
   (footprint "Breadstick Footprints:Perfect_0201_Resistor" (layer "F.Cu")
     (tedit 0) (tstamp 92ba8945-0271-4dc3-a102-541bc7646045)
-    (at 120.396 180.2985 180)
+    (at 151.6 178.68 180)
     (property "JLCPCB P/N" "C2092258")
     (property "Sheetfile" "SK9822_RGB_LED_Strip.kicad_sch")
     (property "Sheetname" "Addressable RGB LEDs")
@@ -2887,7 +2887,7 @@
 
   (footprint "Breadstick Footprints:Perfect_0201_Resistor" (layer "F.Cu")
     (tedit 0) (tstamp a1f347f0-3fa4-4dbd-b2cf-d3082bc4e36a)
-    (at 125.476 100.838)
+    (at 149.11 99.32)
     (property "JLCPCB P/N" "C166182")
     (property "Sheetfile" "SK9822_RGB_LED_Strip.kicad_sch")
     (property "Sheetname" "Addressable RGB LEDs")
@@ -3457,7 +3457,7 @@
 
   (footprint "TXB0102DCUR:SOP50P310X90-8N" (layer "F.Cu")
     (tedit 62E8B732) (tstamp c4eb404f-f3d2-4506-bf24-56396736d56f)
-    (at 127 99.06 180)
+    (at 149.86 97.32 180)
     (property "JLCPCB P/N" "C60709")
     (property "MANUFACTURER" "Texas Instruments")
     (property "MAXIMUM_PACKAGE_HEIGHT" "0.9 mm")
@@ -4028,7 +4028,7 @@
 
   (footprint "Breadstick Footprints:Perfect_0201_Resistor" (layer "F.Cu")
     (tedit 0) (tstamp e42b8b80-020c-4fee-b000-fd91abf3966d)
-    (at 128.524 100.838)
+    (at 150.61 99.32)
     (property "JLCPCB P/N" "C166182")
     (property "Sheetfile" "SK9822_RGB_LED_Strip.kicad_sch")
     (property "Sheetname" "Addressable RGB LEDs")
