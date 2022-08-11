@@ -4,6 +4,17 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RP2040 Breadstick")
+    (date "2022-08-10")
+    (rev "0.1")
+    (company "J & R Creative Technologies Inc.")
+    (comment 1 "@RangenMichael")
+    (comment 2 "https://twitter.com/RangenMichael")
+    (comment 3 "Apache-2.0 License")
+    (comment 4 "https://github.com/mrangen/RP2040-Breadstick")
+  )
+
   (lib_symbols
     (symbol "BreadstickLibrary:AZ1117R-3.3TRE1" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 7.62 0)
