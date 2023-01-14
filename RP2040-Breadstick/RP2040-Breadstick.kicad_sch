@@ -641,9 +641,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b2be7ea1-579e-4beb-a3e3-707e8f35e8f0"
       (reference "#PWR0212") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/e5c5af22-8a80-496e-957d-8e16663ed5ec"
-      (reference "#PWR0213") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/043885bd-7457-4037-9a49-b7423182d0d7"
       (reference "#PWR0214") (unit 1) (value "+3V3") (footprint "")
     )
@@ -791,12 +788,6 @@
     (path "/4bb2fe32-0276-4922-8b52-341100702add/5a10e14c-f737-444a-a52c-1aa43a6f7ca4"
       (reference "#PWR0502") (unit 1) (value "GND") (footprint "")
     )
-    (path "/4bb2fe32-0276-4922-8b52-341100702add/89b71531-3f23-40ce-9d1c-179b530ba500"
-      (reference "#PWR0503") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/4bb2fe32-0276-4922-8b52-341100702add/7897e904-6fc1-4261-967d-014e191fb536"
-      (reference "#PWR0504") (unit 1) (value "GND") (footprint "")
-    )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/62a1cc59-32a9-478b-a702-eb13581b9055"
       (reference "#PWR0505") (unit 1) (value "GND") (footprint "")
     )
@@ -853,9 +844,6 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/602d7e48-7765-454d-9ab1-d30a5ae678e3"
       (reference "C209") (unit 1) (value "1uF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1e0131b0-2220-4036-b771-097586022f30"
-      (reference "C210") (unit 1) (value "1uF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/68e67986-237f-4954-a45f-4b7d13f5dfb0"
       (reference "C211") (unit 1) (value "1uF") (footprint "Breadstick Footprints:Perfect_0201_Cap")
@@ -958,12 +946,6 @@
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/ca222d0e-0744-494e-8e40-61da73c4be13"
       (reference "C501") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/4bb2fe32-0276-4922-8b52-341100702add/163f3ff6-9a68-4893-8140-e95dc5e2c29f"
-      (reference "C502") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
-    )
-    (path "/4bb2fe32-0276-4922-8b52-341100702add/247173a6-f3f9-41ae-a3f4-494004597341"
-      (reference "C503") (unit 1) (value "10uF") (footprint "Breadstick Footprints:Perfect_0402_Cap")
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/668b8b30-9351-4040-8eb5-0add03a9c849"
       (reference "C504") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
