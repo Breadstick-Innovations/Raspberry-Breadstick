@@ -1,7 +1,8 @@
 (sym_lib_table
-  (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/RP2040/RP2040.lib")(options "")(descr ""))
-  (lib (name "TYPE-C-31-M-12")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TYPE-C-31-M-12/TYPE-C-31-M-12.lib")(options "")(descr ""))
-  (lib (name "TPD4E05U06DQAR")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TPD4E05U06DQAR/TPD4E05U06DQAR.lib")(options "")(descr ""))
-  (lib (name "TXB0102DCUR")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/TXB0102DCUR/TXB0102DCUR.lib")(options "")(descr ""))
-  (lib (name "LSM6DS3TR-C")(type "Legacy")(uri "${KIPRJMOD}/Snap EDA/LSM6DS3TR-C/LSM6DS3TR-C.lib")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/RP2040/RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TYPE-C-31-M-12/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD4E05U06DQAR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TPD4E05U06DQAR/TPD4E05U06DQAR.kicad_sym")(options "")(descr ""))
+  (lib (name "TXB0102DCUR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/TXB0102DCUR/TXB0102DCUR.kicad_sym")(options "")(descr ""))
+  (lib (name "LSM6DS3TR-C")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/LSM6DS3TR-C/LSM6DS3TR-C.kicad_sym")(options "")(descr ""))
+  (lib (name "USB-C-2171790001")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/USB-C-2171790001/USB-C-2171790001.kicad_sym")(options "")(descr ""))
 )
