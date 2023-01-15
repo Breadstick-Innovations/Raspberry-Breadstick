@@ -22,8 +22,8 @@
   (fp_line (start -1.1 0.65) (end -1.1 -0.65) (layer "F.Fab") (width 0.127) (tstamp d9e49fc4-46fe-482b-8906-61af7c1472eb))
   (fp_line (start 1.1 0.65) (end -1.1 0.65) (layer "F.Fab") (width 0.127) (tstamp f7f4a858-5dd0-45b8-96db-a2ada69019ef))
   (fp_circle (center -2.5 0) (end -2.4 0) (layer "F.Fab") (width 0.2) (fill none) (tstamp 55d86872-e23e-4870-a2e5-31f924442b2e))
-  (pad "A" smd rect (at 0.95 0) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 004d701c-7e69-4a10-9c95-7de04fa2be20))
-  (pad "C" smd rect (at -0.95 0) (size 2 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eda12c9f-b24f-4458-a3cc-61f318dc57fe))
+  (pad "1" smd rect (at -0.95 0) (size 2 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eda12c9f-b24f-4458-a3cc-61f318dc57fe))
+  (pad "2" smd rect (at 0.95 0) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 004d701c-7e69-4a10-9c95-7de04fa2be20))
   (model "${KIPRJMOD}/Snap EDA/MICROSMP_DO-219AD/V2PM15HM3_H.step"
     (opacity 0.8800)    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
