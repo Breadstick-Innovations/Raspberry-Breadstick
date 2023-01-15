@@ -1,0 +1,38 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "TLJR476M006R3200" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "C" (id 0) (at 0.0 3.81 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "TLJR476M006R3200" (id 1) (at 0.0 -5.08 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "CAPC2012X140N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "TLJR476M006R3200_0_0"
+      (rectangle (start 0.0 -1.905) (end 0.635 1.905)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (rectangle (start 1.905 -1.905) (end 2.54 1.905)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (pin passive line (at 5.08 0.0 180.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -2.54 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
