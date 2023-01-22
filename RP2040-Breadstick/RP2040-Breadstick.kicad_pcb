@@ -327,7 +327,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 0ee253fe-d866-4e22-91d5-9b3c7448a2a7)
-    (at 116.115 76.805)
+    (at 151.28 72.76)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -716,7 +716,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 1deb6681-0a25-4bec-bf96-ca0742daeacc)
-    (at 88.845 97.465)
+    (at 82.55 152.4)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -834,7 +834,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 23b5365d-6149-4ad4-b9d9-c2b6d464b3ef)
-    (at 102.415 86.165)
+    (at 151.97 87.63)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -956,7 +956,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 28ede353-7418-464f-acae-623829e4d2ef)
-    (at 121.045 67.545)
+    (at 82.55 121.92)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -1202,7 +1202,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 2d3606cb-4051-4072-a225-14ffee6def6b)
-    (at 93.495 92.815)
+    (at 82.55 106.68)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -1364,7 +1364,7 @@
 
   (footprint "_Breadstick_Footprints:Perfect_0201_Resistor" (layer "F.Cu")
     (tedit 0) (tstamp 37b60c7b-11d8-4a12-81bb-66d528948c72)
-    (at 83.82 26.67)
+    (at 77.47 26.67)
     (property "Digikey" "P123051DKR-ND")
     (property "JLCPCB P/N" "")
     (property "Sheetfile" "RP2040.kicad_sch")
@@ -1508,7 +1508,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 43738895-35fd-459a-8833-39825fb0582a)
-    (at 115.895 81.455)
+    (at 165.45 82.92)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -1807,7 +1807,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 562ef4d3-9cc7-41a2-ad94-37ca405c764f)
-    (at 98.145 90.815)
+    (at 82.55 137.16)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -2273,7 +2273,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 6cdc7005-8faa-427e-b63e-2dd4c1df1558)
-    (at 125.695 72.195)
+    (at 82.55 76.2)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -2407,7 +2407,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 79b1a064-118c-436c-8b65-f20656299283)
-    (at 97.765 86.165)
+    (at 147.32 87.63)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -2533,7 +2533,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 7e2e87ca-e3e0-4998-a435-0001b4d1a5d0)
-    (at 120.765 76.845)
+    (at 155.93 72.8)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -2579,7 +2579,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 82ce02bc-fbc1-469e-9bdf-43b2612fc814)
-    (at 93.495 97.465)
+    (at 82.55 60.96)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -3476,7 +3476,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp ac604562-2fae-474d-984f-472161198f7d)
-    (at 107.065 86.165)
+    (at 156.62 87.63)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -3818,7 +3818,7 @@
 
   (footprint "TPD4E05U06DQAR:TI_TPD4E05U06DQAR" (layer "F.Cu")
     (tedit 62E090D6) (tstamp b4acbff1-0f12-443f-86e5-0e4cf9924080)
-    (at 86.36 26.67 -90)
+    (at 86.36 25.4 -90)
     (property "Digikey" "296-35765-6-ND")
     (property "JLCPCB P/N" "C138714")
     (property "MANUFACTURER" "Texas Instruments")
@@ -3920,7 +3920,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp b8ee1618-d313-4513-ab90-99a2a1b3d494)
-    (at 102.795 90.815)
+    (at 152.35 92.28)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -4002,7 +4002,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp bbcc9da4-4655-4ed8-9a8f-02fa4c7faf7c)
-    (at 130.345 67.545)
+    (at 165.51 63.5)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -4164,7 +4164,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp bfdad3c8-0a70-4a63-a174-df049c8a951c)
-    (at 111.715 86.105)
+    (at 161.27 87.57)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -4210,7 +4210,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp c8ab565b-5bac-4963-ac4b-66cdd0d2fd90)
-    (at 88.845 92.815)
+    (at 138.4 94.28)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -4694,7 +4694,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp d94de260-5c4d-4614-9892-19e3f298c3fa)
-    (at 111.245 80.655)
+    (at 146.41 76.61)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -4780,7 +4780,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp dcb6a4ae-219a-4276-85df-0ff680d91ca4)
-    (at 98.145 95.465)
+    (at 82.55 91.44)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -4826,7 +4826,7 @@
 
   (footprint "_Breadstick_Footprints:Perfect_0201_Resistor" (layer "F.Cu")
     (tedit 0) (tstamp dd8157be-a2ed-43e3-bae5-e3b2dd871542)
-    (at 88.9 26.67)
+    (at 95.25 26.67)
     (property "Digikey" "P123051DKR-ND")
     (property "JLCPCB P/N" "")
     (property "Sheetfile" "RP2040.kicad_sch")
@@ -4938,7 +4938,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp dfa6aa5b-d7ac-4fde-a4fa-536e81e3e074)
-    (at 121.045 72.195)
+    (at 82.55 45.72)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5340,7 +5340,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp fff93175-bafd-4f34-ae0e-78aba8b2e1a9)
-    (at 125.695 67.545)
+    (at 160.86 63.5)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5425,7 +5425,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp 2d27e989-5b7e-433a-86bc-d7f83ef9d01e)
-    (at 82.55 29.21 180)
+    (at 82.55 27.94 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5471,7 +5471,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp 3d8d17eb-9da3-4258-b9c3-8f8e43f91f1a)
-    (at 82.55 31.75 180)
+    (at 82.55 30.48 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5517,7 +5517,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp 4a03e68f-c74c-4c42-b2e5-5605e5ce9473)
-    (at 90.17 29.21 180)
+    (at 90.17 27.94 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5563,7 +5563,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp 54204bb9-ad55-487d-bb6f-7e2012a1298e)
-    (at 90.17 31.75 180)
+    (at 90.17 30.48 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5609,7 +5609,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp 55638b8f-9d85-44d2-b0cc-2d15e08fd48b)
-    (at 90.17 36.83 180)
+    (at 90.17 35.56 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5694,7 +5694,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp 824bb42d-89aa-42c6-a7aa-9058e9c90838)
-    (at 82.55 34.29 180)
+    (at 82.55 33.02 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5740,7 +5740,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp 97534838-1f36-4c40-8d08-54249763b8d4)
-    (at 82.55 36.83 180)
+    (at 82.55 35.56 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
@@ -5786,7 +5786,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (layer "B.Cu")
     (tedit 59FED5CC) (tstamp cf0bbd0d-22ee-4ea7-9877-80945221f044)
-    (at 90.17 34.29 180)
+    (at 90.17 33.02 180)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "JLCPCB P/N" "C492400")
