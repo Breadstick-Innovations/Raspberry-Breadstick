@@ -487,6 +487,9 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/a8c9f589-a5e3-4bc0-9f03-9c144ddbf253"
       (reference "J221") (unit 1) (value "2171790001") (footprint "USB-C Molex:USB-C-2171790001")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/11c66d9d-29df-4145-8f3c-37baa7d8983f"
+      (reference "J222") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/9d9e3c90-8e35-4293-aea1-892ff2b11d56"
       (reference "J501") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
@@ -603,6 +606,9 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/727042c3-3534-4145-851d-4d2e70c27f16"
       (reference "R207") (unit 1) (value "5k1 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/975b0612-7e19-4ca1-b8b2-230361c1dd3d"
+      (reference "R208") (unit 1) (value "10k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/02cfa892-b695-41e3-a357-ea7c8c062db1"
       (reference "R301") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
