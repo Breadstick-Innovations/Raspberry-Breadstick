@@ -127,6 +127,7 @@
         0.0,
         0.1,
         0.1194,
+        0.2032,
         0.25,
         0.5
       ],
@@ -374,7 +375,7 @@
     "classes": [
       {
         "bus_width": 12.0,
-        "clearance": 0.1,
+        "clearance": 0.0254,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -384,7 +385,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1,
+        "track_width": 0.0254,
         "via_diameter": 0.48,
         "via_drill": 0.2,
         "wire_width": 6.0
