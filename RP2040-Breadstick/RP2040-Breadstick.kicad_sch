@@ -109,6 +109,9 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ee6e8186-224a-409f-878a-80a4917189d6"
       (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/d3d27495-ea34-49a9-8667-c2d63e8946e8"
+      (reference "#PWR0212") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1c5ba8dc-0e21-44e6-9f1e-c17876f63094"
       (reference "#PWR0213") (unit 1) (value "GND") (footprint "")
     )
@@ -573,6 +576,12 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/975b0612-7e19-4ca1-b8b2-230361c1dd3d"
       (reference "R208") (unit 1) (value "10k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/448ebb1b-20cf-4013-a185-e825251a7793"
+      (reference "R209") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/f8249bc8-cc51-4cbb-8c87-c9e35dc19ade"
+      (reference "R210") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/02cfa892-b695-41e3-a357-ea7c8c062db1"
       (reference "R301") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
