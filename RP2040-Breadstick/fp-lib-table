@@ -15,4 +15,5 @@
   (lib (name "LSM6DSMTR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/LSM6DSMTR")(options "")(descr ""))
   (lib (name "MICROSMP_DO-219AD")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/MICROSMP_DO-219AD")(options "")(descr ""))
   (lib (name "USB-C Molex")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/USB-C-2171790001/footprints.pretty")(options "")(descr ""))
+  (lib (name "74AXP2T45DCH")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/74AXP2T45DCH")(options "")(descr ""))
 )
