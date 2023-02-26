@@ -373,9 +373,6 @@
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/de48c76c-53dc-420b-abb3-7ffcdd91ea7d"
       (reference "IC301") (unit 1) (value "74AXP2T45DCH") (footprint "74AXP2T45DCH:74AXP2T45DCH")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b254f074-cc30-4795-9d87-3a65f800df8d"
-      (reference "J201") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/476b9bf5-99ad-4e19-aa53-551aecd9e0e6"
       (reference "J202") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
@@ -417,9 +414,6 @@
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/5c3ed6b0-0770-4b2e-bf4a-8a85210056a1"
       (reference "J215") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/8cdc5a99-459e-44b9-846b-55ea15a9ab3c"
-      (reference "J216") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/cb9228a1-ea71-4a06-9191-c27b21c55d21"
       (reference "J217") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
@@ -468,6 +462,12 @@
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/5f059644-af00-4bb7-858d-0726911e74a5"
       (reference "J508") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/4bb2fe32-0276-4922-8b52-341100702add/de5aa04f-7441-497d-9fca-89816083a86d"
+      (reference "J509") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+    )
+    (path "/4bb2fe32-0276-4922-8b52-341100702add/bfb4e55b-7a02-4e63-957a-0ac38034eae6"
+      (reference "J510") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/055a3251-65e1-4925-b363-fde7c5fcf517"
       (reference "LED301") (unit 1) (value "SK9822") (footprint "_Breadstick_Footprints:SK9822-2020")
