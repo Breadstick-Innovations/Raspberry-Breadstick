@@ -97,9 +97,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/a4b0f837-7b14-4e1b-8379-12eea00f4de1"
       (reference "#PWR0205") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ce665db0-fa22-4f91-be9b-ca3c9e533776"
-      (reference "#PWR0206") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/3a8612be-bcf9-4557-af7f-b4b90c998e41"
       (reference "#PWR0207") (unit 1) (value "GND") (footprint "")
     )
@@ -250,6 +247,15 @@
     (path "/4bb2fe32-0276-4922-8b52-341100702add/10cf5d41-9b45-4e7c-94bc-9e658562f2ac"
       (reference "#PWR0507") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/10b6c4d4-98cb-422b-a3d4-4bb8d0ab4548"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b3b56dc9-b389-4166-a7f0-a7197fc11265"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/fa2832e1-99f9-4ddc-9d22-b307449200d4"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4727e9a7-62bf-416e-be78-b23696836807"
       (reference "C201") (unit 1) (value "10pF 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Cap")
     )
@@ -361,6 +367,9 @@
     (path "/4bb2fe32-0276-4922-8b52-341100702add/2152bb91-721e-4ff3-b6ed-926aacaa1d85"
       (reference "C503") (unit 1) (value "2.2uF 0603 10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/e04148d9-0f27-425b-9af4-6a78963d4d64"
+      (reference "C?") (unit 1) (value "1uF 0402 10V") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
+    )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/b6fad7dd-470c-4f6b-9163-38761b8d58a5"
       (reference "D501") (unit 1) (value "2A") (footprint "MICROSMP_DO-219AD:DIO_V2PM15HM3_H")
     )
@@ -372,6 +381,9 @@
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/de48c76c-53dc-420b-abb3-7ffcdd91ea7d"
       (reference "IC301") (unit 1) (value "74AXP2T45DCH") (footprint "74AXP2T45DCH:74AXP2T45DCH")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/436937bc-ec66-4fa5-bfce-abac93d55497"
+      (reference "J201") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/476b9bf5-99ad-4e19-aa53-551aecd9e0e6"
       (reference "J202") (unit 1) (value "Conn_01x01") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
@@ -562,9 +574,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/727042c3-3534-4145-851d-4d2e70c27f16"
       (reference "R207") (unit 1) (value "5k1 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/975b0612-7e19-4ca1-b8b2-230361c1dd3d"
-      (reference "R208") (unit 1) (value "10k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/448ebb1b-20cf-4013-a185-e825251a7793"
       (reference "R209") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
     )
@@ -583,8 +592,17 @@
     (path "/4bb2fe32-0276-4922-8b52-341100702add/0201bd49-468c-4d74-9013-52f4ed88fc27"
       (reference "R502") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
     )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/0750cc25-3735-4125-b197-b9e9280be8e8"
+      (reference "R?") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/9cd81f6d-f86d-4930-af95-0ecf83bfba92"
+      (reference "R?") (unit 1) (value "10k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/ad137bbc-f49f-4d8a-abc7-1686ced48cfa"
       (reference "SW201") (unit 1) (value "~{USB_BOOT}") (footprint "Switch_R-667995:R-667995")
+    )
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/0ce80438-d438-4c13-9325-52e2a4f394da"
+      (reference "SW?") (unit 1) (value "~{USB_BOOT}") (footprint "Switch_R-667995:R-667995")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/86571f4c-c84c-47ae-bd38-d99869d3970f"
       (reference "U201") (unit 1) (value "RP2040") (footprint "RP2040:QFN40P700X700X90-57N")
