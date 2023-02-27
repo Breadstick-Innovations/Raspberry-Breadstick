@@ -2069,7 +2069,7 @@
     (property "Reference" "SW202" (id 0) (at 76.2 180.3399 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "" (id 1) (at 76.2 183.5149 90)
+    (property "Value" "~{RESET}" (id 1) (at 76.2 183.5149 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Switch_R-667995:R-667995" (id 2) (at 69.85 181.61 0)
