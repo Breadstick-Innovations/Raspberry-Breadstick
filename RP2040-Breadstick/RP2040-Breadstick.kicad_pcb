@@ -7506,6 +7506,9 @@
   (gr_text "6" (at 82.55 139.065) (layer "F.SilkS") (tstamp ffefa619-7042-4115-98b0-cdc6886ad933)
     (effects (font (size 1.25 1.25) (thickness 0.3)))
   )
+  (gr_text "Todo:\n1. mark out the impedence controlled diff pair for manufacture to see.\n2. move bottom trace out of the zone of the potential mousebite location. \n3. Fillet corners\n" (at 182.84 138.92) (layer "Cmts.User") (tstamp b1948cf7-6586-4701-a6e5-8c3f2fb3a1a7)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
+  )
 
   (segment (start 82.9564 71.135072) (end 83.506824 70.584648) (width 0.127) (layer "F.Cu") (net 1) (tstamp 5a30c515-ebac-457d-bbc3-73e84c5b720a))
   (segment (start 82.9564 71.3486) (end 82.9564 71.135072) (width 0.127) (layer "F.Cu") (net 1) (tstamp 63eb5c04-6af3-4840-9ba3-a3184900284a))
