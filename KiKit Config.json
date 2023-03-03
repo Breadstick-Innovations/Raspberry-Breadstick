@@ -4,7 +4,7 @@
         "vspace": "2mm",
         "vbackbone": "4mm",
         "vboneskip": "4",
-        "cols": "10"
+        "cols": "3"
     },
     "tabs": {
         "type": "fixed",
@@ -42,7 +42,7 @@
     "text": {
         "type": "simple",
         "voffset": "2mm",
-        "text": "RP2040 Breadstick - Breadstick Innovations - 10 pc panel"
+        "text": "RP2040 Breadstick - Breadstick Innovations"
     },
     "text2": {
         "type": "simple",
