@@ -1,0 +1,63 @@
+{
+    "layout": {
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "vbackbone": "4mm",
+        "vboneskip": "4",
+        "cols": "3"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vwidth": "2mm",
+        "hwidth": "2mm"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "drill": "0.45mm",
+        "spacing": "0.575mm",
+        "offset": "0.05mm",
+        "prolong": "0.6mm"
+    },
+    "framing": {
+        "type": "frame",
+        "width": "4mm",
+        "mintotalheight": "50mm",
+        "mintotalwidth": "50mm",
+        "maxtotalheight": "330mm",
+        "maxtotalwidth": "530mm",
+        "cuts": "h",
+        "fillet": "2mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "2.5mm",
+        "voffset": "2mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "5mm",
+        "voffset": "2mm",
+        "coppersize": "1.7mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "2mm",
+        "text": "RP2040 Breadstick - Breadstick Innovations"
+    },
+    "text2": {
+        "type": "simple",
+        "voffset": "-2mm",
+        "text": "Created on {date}",
+        "anchor": "mb"
+    },
+    "copperfill": {
+        "type": "solid",
+        "clearance": "1mm"
+    },
+    "page": {
+        "posx": "30%"
+    },
+    "post": {
+        "millradius": "1mm"
+    }
+}
