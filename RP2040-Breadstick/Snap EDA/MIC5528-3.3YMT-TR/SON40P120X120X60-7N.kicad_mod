@@ -2,13 +2,17 @@
   (layer "F.Cu")
   (tedit 63C440CC)
   (attr through_hole)
-  (fp_text reference "REF**" (at 1.9 -1.632) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp c2037d43-7f25-42d0-b395-5b43175f9944)
   )
-  (fp_text value "SON40P120X120X60-7N" (at 10.79 1.632) (layer "F.Fab")
-    (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text value "SON40P120X120X60-7N" (at 0 0.8128) (layer "F.Fab") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp cf3a14b3-a3f8-4538-a7f3-850ef7d491e7)
+  )
+  (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
+    (effects (font (size 0.25 0.25) (thickness 0.0625)))
+    (tstamp 06989acb-4ea1-4f39-8d65-a817b6aa201c)
   )
   (fp_poly (pts
       (xy -0.072 -0.392)
