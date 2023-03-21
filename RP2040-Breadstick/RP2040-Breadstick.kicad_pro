@@ -167,7 +167,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.15,
+        "min_clearance": 0.15239999999999998,
         "min_copper_edge_clearance": 0.25,
         "min_hole_clearance": 0.3,
         "min_hole_to_hole": 0.5,
@@ -463,7 +463,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "",
+      "step": "RP2040-Breadstick.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
