@@ -13,14 +13,23 @@ i2c = busio.I2C(IMU_SCL, IMU_SDA)  # SCL, SDA
 
 
 
-OUTX_L_XL = 0x28
-OUTX_H_XL = 0x29
+
 CTRL1_XL = 0x10
 CTRL2_G = 0x11
 CTRL3_C = 0x12
 CTRL4_C = 0x13
 CTRL5_C = 0x14
 CTRL6_C = 0x15
+
+OUT_TEMP_L = 0x20
+OUT_TEMP_H = 0x21
+
+OUTX_L_G = 0x22
+OUTX_H_G = 0x23
+
+OUTX_L_XL = 0x28
+OUTX_H_XL = 0x29
+
 
 def i2c_read_reg(i2cbus, addr, reg, result):
   while not i2cbus.try_lock():
@@ -54,6 +63,8 @@ data = bytearray(1)
 data[0] = 0b00111100
 i2c_write_reg(i2c, IMU_I2C_ADDR, CTRL1_XL, data)
 
+data[0] = 0b00111000
+i2c_write_reg(i2c, IMU_I2C_ADDR, CTRL2_G, data)
 
 
 while True:
@@ -62,7 +73,22 @@ while True:
     x_highbyte = bytearray(1)
     i2c_read_reg(i2c, IMU_I2C_ADDR, OUTX_H_XL, x_highbyte)
     x = twos_comp(x_highbyte[0]*256 + x_lowbyte[0], 16)
-    print((x,))
+
+    pitch_lowbyte = bytearray(1)
+    i2c_read_reg(i2c, IMU_I2C_ADDR, OUTX_L_G, pitch_lowbyte)
+    pitch_highbyte = bytearray(1)
+    i2c_read_reg(i2c, IMU_I2C_ADDR, OUTX_H_G, pitch_highbyte)
+    pitch = twos_comp(pitch_highbyte[0]*256 + pitch_lowbyte[0], 16)
+
+    temp_lowbyte = bytearray(1)
+    i2c_read_reg(i2c, IMU_I2C_ADDR, OUT_TEMP_L, temp_lowbyte)
+    temp_highbyte = bytearray(1)
+    i2c_read_reg(i2c, IMU_I2C_ADDR, OUT_TEMP_H, temp_highbyte)
+    temp = 25 + twos_comp(temp_highbyte[0]*256 + temp_lowbyte[0], 16) /256
+
+
+
+    print((x,pitch,temp))
     time.sleep(0.1)
 
 
