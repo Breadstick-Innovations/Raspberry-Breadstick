@@ -2,6 +2,7 @@ import time
 import board
 import digitalio
 import busio
+import random
 ##Gyro
 from adafruit_lsm6ds import Rate, AccelRange, GyroRange
 # from adafruit_lsm6ds.lsm6dsox import LSM6DSOX as LSM6DS
@@ -9,6 +10,9 @@ from adafruit_lsm6ds import Rate, AccelRange, GyroRange
 # from adafruit_lsm6ds.lsm6dso32 import LSM6DSO32 as LSM6DS
 # from adafruit_lsm6ds.ism330dhcx import ISM330DHCX as LSM6DS
 from adafruit_lsm6ds.lsm6ds3trc import LSM6DS3TRC as LSM6DS
+#dotstar
+import adafruit_dotstar as dotstar
+import adafruit_fancyled.adafruit_fancyled as fancy
 
 # definitions
 IMU_SCL = board.GP17
@@ -38,6 +42,16 @@ print("Gyro rate set to: %d HZ" % Rate.string[sensor.gyro_data_rate])
 #sensor.pedometer_enable = True
 
 
+def random_color():
+    return random.randrange(0, 7) * 32
+num_leds = 24
+data_pin = board.GP19
+clock_pin = board.GP18
+dots = dotstar.DotStar(board.GP18, board.GP19, num_leds, brightness=1.0, auto_write=False)
+
+offset = 0  # Positional offset into color palette to get it to 'spin'
+
+
 while True:
     ##pedometer
     #print("Steps: ", sensor.pedometer_steps)
@@ -55,13 +69,30 @@ while True:
     # )
 
     #print(sensor.acceleration)
-    print(acc_y)
+    #print("Y:%.2f" % acc_y)
+    ##  -10-10 --> 0-24
+    myVal = int ((acc_y + 10 )/20 * 24 )
+    #print("val:%i" % myVal)
+    #print("(%.2f, %.0f)" % (acc_y, myVal))
+
     # print(sensor.gyro)
 
     # print("(%f, %f, %f, %f, %f, %f)" % (sensor.acceleration + sensor.gyro))
+    #time.sleep(0.05)
 
 
 
+    for i in range(num_leds):
+        if i == myVal:
+            c = fancy.CRGB(fancy.CHSV(i/num_leds+offset,1.0,0.05))
+        elif i+1 == myVal:
+            c = fancy.CRGB(fancy.CHSV(i/num_leds+offset,0.50,0.01))
+        elif i-1 == myVal:
+            c = fancy.CRGB(fancy.CHSV(i/num_leds+offset,0.50,0.01))
+        else:
+            c = fancy.CRGB(0,0,0)
+        dots[i] = c.pack()
+    dots.show()
 
-    time.sleep(0.05)
-
+    offset += 0.0  # Bigger number = faster spin. was 0.02
+    time.sleep(0.01)
