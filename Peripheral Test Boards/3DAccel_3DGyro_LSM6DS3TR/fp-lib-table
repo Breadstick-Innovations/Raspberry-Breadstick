@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "LSM6DS3TR-C")(type "KiCad")(uri "${KIPRJMOD}/SnapEDA/LSM6DS3TR-C")(options "")(descr ""))
-)
