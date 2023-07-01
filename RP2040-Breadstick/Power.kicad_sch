@@ -749,6 +749,11 @@
     (uuid fef15a3c-574b-44f1-aea8-d1597cfe54fe)
   )
 
+  (text "Replace with ORing Ideal Diodes LM66200DRLR" (at 74.93 52.07 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1f8865c0-907d-425a-802f-c9dea8b7c3b4)
+  )
+
   (label "5V4A" (at 70.485 76.2 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 94e9debf-2f4f-4dc2-a098-7c368c28a0af)

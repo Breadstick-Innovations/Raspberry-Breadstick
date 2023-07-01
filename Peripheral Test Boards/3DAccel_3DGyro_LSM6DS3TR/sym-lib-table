@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "LSM6DS3TR-C")(type "Legacy")(uri "${KIPRJMOD}/SnapEDA/LSM6DS3TR-C/LSM6DS3TR-C.lib")(options "")(descr ""))
-)

@@ -4,7 +4,7 @@
   (descr "VSSOP8")
   (tags "Integrated Circuit")
   (attr smd)
-  (fp_text reference "IC**" (at 0 -2.54) (layer "F.SilkS")
+  (fp_text reference "IC**" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp f733e016-a050-4ad2-8a14-7ee1d7da5f26)
   )
@@ -13,7 +13,7 @@
     (tstamp 12aff8b8-317b-4d2d-8e99-1ec01722974b)
   )
   (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
     (tstamp 8d75287a-d07c-400a-9a1a-d552989a8447)
   )
   (fp_line (start -2 -1.25) (end -1.15 -1.25) (layer "F.SilkS") (width 0.2) (tstamp 8f19934a-bb2c-4cd6-9b7c-3e9f68ca569b))
