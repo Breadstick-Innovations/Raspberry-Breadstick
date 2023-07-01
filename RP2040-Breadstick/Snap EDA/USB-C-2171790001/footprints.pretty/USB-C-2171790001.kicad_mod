@@ -2,27 +2,27 @@
   (layer "F.Cu")
   (tedit 0)
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 -6.35) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 0) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ab14e182-d201-4cd4-9daf-2c4aadbb0100)
   )
-  (fp_text value "2171790001_MOL" (at 0 -5.08) (layer "F.SilkS")
+  (fp_text value "2171790001_MOL" (at 0 2.032) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 684a8d97-44b4-4090-9326-90c0b2cd5ae5)
   )
-  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.SilkS")
+  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 66a55649-7561-483e-a895-6a95c97ff43a)
   )
-  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.SilkS")
+  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9a458650-0bcb-4412-a227-64373438204a)
   )
-  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.Fab")
+  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 58c4857b-b068-4140-8935-57de9b8c3c07)
   )
-  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.Fab")
+  (fp_text user "*" (at -5.740001 -3.3032) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5a20a063-d5c5-4b0a-8aa1-2183075882ba)
   )
