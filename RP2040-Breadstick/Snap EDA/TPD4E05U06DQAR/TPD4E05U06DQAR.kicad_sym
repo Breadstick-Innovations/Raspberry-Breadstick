@@ -30,7 +30,7 @@
         (name "D1+" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
       )
-      (pin no_connect line (at 19.05 1.27 180) (length 2.54) hide
+      (pin no_connect line (at -19.05 3.81 0) (length 2.54) hide
         (name "NC" (effects (font (size 1.016 1.016))))
         (number "10" (effects (font (size 1.016 1.016))))
       )
@@ -50,11 +50,11 @@
         (name "D2-" (effects (font (size 1.016 1.016))))
         (number "5" (effects (font (size 1.016 1.016))))
       )
-      (pin no_connect line (at 19.05 8.89 180) (length 2.54) hide
+      (pin no_connect line (at -19.05 -3.81 0) (length 2.54) hide
         (name "NC" (effects (font (size 1.016 1.016))))
         (number "6" (effects (font (size 1.016 1.016))))
       )
-      (pin no_connect line (at 19.05 6.35 180) (length 2.54) hide
+      (pin no_connect line (at -19.05 -1.27 0) (length 2.54) hide
         (name "NC" (effects (font (size 1.016 1.016))))
         (number "7" (effects (font (size 1.016 1.016))))
       )
@@ -62,7 +62,7 @@
         (name "GND" (effects (font (size 1.016 1.016))))
         (number "8" (effects (font (size 1.016 1.016))))
       )
-      (pin no_connect line (at 19.05 3.81 180) (length 2.54) hide
+      (pin no_connect line (at -16.51 1.27 180) (length 2.54) hide
         (name "NC" (effects (font (size 1.016 1.016))))
         (number "9" (effects (font (size 1.016 1.016))))
       )

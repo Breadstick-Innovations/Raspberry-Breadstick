@@ -1402,9 +1402,6 @@
     (path "/d76bf487-cf6a-470f-9995-5ba35bbe193f/10ea52cf-5a3a-4f09-b8bc-cd034c6735f3"
       (reference "#PWR0604") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d76bf487-cf6a-470f-9995-5ba35bbe193f/be4f7e3f-544a-46cb-85a1-167d1c21b0a5"
-      (reference "#PWR0605") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/e24c6cc4-9232-444b-9956-fae25d83621c"
       (reference "C201") (unit 1) (value "1uF 0402 10V") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
     )
@@ -1670,16 +1667,16 @@
       (reference "R302") (unit 1) (value "10k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/db5f85b6-efb5-4ef4-914d-637b8c733210"
-      (reference "R501") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R501") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/0201bd49-468c-4d74-9013-52f4ed88fc27"
-      (reference "R502") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R502") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d76bf487-cf6a-470f-9995-5ba35bbe193f/547af921-e4cb-46c8-8020-60d0a32d745d"
-      (reference "R601") (unit 1) (value "5k1 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R601") (unit 1) (value "5k1 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d76bf487-cf6a-470f-9995-5ba35bbe193f/b25580ea-7652-4c2f-9e06-fdd31deae61d"
-      (reference "R602") (unit 1) (value "5k1 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R602") (unit 1) (value "5k1 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/37faa16d-a676-4113-9fa4-bb22004eb80c"
       (reference "SW201") (unit 1) (value "~{USB_BOOT}") (footprint "Switch_R-667995:R-667995")

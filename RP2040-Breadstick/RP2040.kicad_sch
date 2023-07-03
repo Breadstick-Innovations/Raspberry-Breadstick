@@ -2280,7 +2280,7 @@
     (uuid f23d7a8b-abc1-4e4c-8a87-f43332ef4a8b)
     (property "Reference" "U202" (id 0) (at 91.44 121.92 0))
     (property "Value" "" (id 1) (at 91.44 124.46 0))
-    (property "Footprint" "" (id 2) (at 90.17 135.89 0)
+    (property "Footprint" "W25Q128JVPIQ-TR:W25Q128JVPIQ-TR" (id 2) (at 90.17 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf" (id 3) (at 90.17 135.89 0)
