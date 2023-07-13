@@ -1276,9 +1276,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/47962e3c-353f-4a4d-ba4e-8f6d8aee1c2f"
       (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/42aff9d8-5726-487d-a51b-c224aafca052"
-      (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/f0bc321e-f05b-458f-b4e8-fb740a416a27"
       (reference "#PWR0212") (unit 1) (value "+3V3") (footprint "")
     )
@@ -1363,9 +1360,6 @@
     (path "/b54c3862-639e-4b03-9fc6-28e0c3c13c33/e37048a0-0e06-4a6e-8980-11f7dc80cccd"
       (reference "#PWR0402") (unit 1) (value "GND") (footprint "")
     )
-    (path "/b54c3862-639e-4b03-9fc6-28e0c3c13c33/c7b68cd0-206b-458b-b756-d3127cb2c01c"
-      (reference "#PWR0403") (unit 1) (value "GND") (footprint "")
-    )
     (path "/b54c3862-639e-4b03-9fc6-28e0c3c13c33/d22f5e5b-0366-4d28-a43d-e1f43128fe27"
       (reference "#PWR0404") (unit 1) (value "GND") (footprint "")
     )
@@ -1406,10 +1400,10 @@
       (reference "C201") (unit 1) (value "1uF 0402 10V") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/81b86889-88ee-47b1-b9b7-fb59eb647133"
-      (reference "C202") (unit 1) (value "10pF 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Cap")
+      (reference "C202") (unit 1) (value "10pF 0402") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b2d903cc-0d13-43b8-859f-bb7083336e79"
-      (reference "C203") (unit 1) (value "10pF 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Cap")
+      (reference "C203") (unit 1) (value "10pF 0402") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4e3f3466-a1c3-4962-b271-a7914806191a"
       (reference "C204") (unit 1) (value "10uF 1206 6V3") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -1418,10 +1412,7 @@
       (reference "C205") (unit 1) (value "1uF 0402 10V") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/bcc23349-3d83-4c84-aa18-01d8fa8afcba"
-      (reference "C206") (unit 1) (value "2.2uF 0603 10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/09e46065-cebc-47d9-ae38-2c56c07ab79a"
-      (reference "C207") (unit 1) (value "2.2uF 0603 10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C206") (unit 1) (value "10uF 1206 6.3V") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/5dc24f6b-4535-49fa-9b07-1a88a8812ede"
       (reference "C301") (unit 1) (value "10uF 1206 6V3") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -1440,9 +1431,6 @@
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/430ff8ec-b6fb-4581-84d6-e5800973235a"
       (reference "C306") (unit 1) (value "10uF 1206 6V3") (footprint "Capacitor_SMD:C_1206_3216Metric")
-    )
-    (path "/b54c3862-639e-4b03-9fc6-28e0c3c13c33/0b0dc3f1-a9b1-4c91-8fc8-493fe97c7714"
-      (reference "C401") (unit 1) (value "1uF 0402 10V") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
     )
     (path "/b54c3862-639e-4b03-9fc6-28e0c3c13c33/595ebdc7-c5e1-4fab-ba26-82c8f9e21bfb"
       (reference "C402") (unit 1) (value "10uF 1206 6V3") (footprint "Capacitor_SMD:C_1206_3216Metric")
