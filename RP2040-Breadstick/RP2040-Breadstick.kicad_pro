@@ -175,7 +175,7 @@
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.19999999999999998,
-        "min_track_width": 0.127,
+        "min_track_width": 0.15239999999999998,
         "min_via_annular_width": 0.15,
         "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
@@ -443,8 +443,8 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1524,
-        "via_diameter": 0.48,
-        "via_drill": 0.2,
+        "via_diameter": 0.7,
+        "via_drill": 0.3,
         "wire_width": 6.0
       }
     ],
