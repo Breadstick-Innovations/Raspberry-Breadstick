@@ -1276,9 +1276,6 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/47962e3c-353f-4a4d-ba4e-8f6d8aee1c2f"
       (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/f0bc321e-f05b-458f-b4e8-fb740a416a27"
-      (reference "#PWR0212") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/713d49c1-c516-4ca5-be69-0c69462abfd3"
       (reference "#PWR0301") (unit 1) (value "GND") (footprint "")
     )
@@ -1412,13 +1409,13 @@
       (reference "#PWR0604") (unit 1) (value "GND") (footprint "")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/e24c6cc4-9232-444b-9956-fae25d83621c"
-      (reference "C201") (unit 1) (value "1uF 0402 10V") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
+      (reference "C201") (unit 1) (value "1uF 0603 10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/81b86889-88ee-47b1-b9b7-fb59eb647133"
-      (reference "C202") (unit 1) (value "10pF 0402") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
+      (reference "C202") (unit 1) (value "10pF 0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/b2d903cc-0d13-43b8-859f-bb7083336e79"
-      (reference "C203") (unit 1) (value "10pF 0402") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
+      (reference "C203") (unit 1) (value "10pF 0603") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4e3f3466-a1c3-4962-b271-a7914806191a"
       (reference "C204") (unit 1) (value "10uF 1206 6V3") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -1670,13 +1667,13 @@
       (reference "R206") (unit 1) (value "27Ω 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/92704f0f-62bd-4cf3-9827-3375006f759e"
-      (reference "R207") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R207") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/224a5b0b-5fea-41a4-b16c-9027cbb1e97e"
-      (reference "R208") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R208") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/0758fa8c-6ba2-4449-8a77-8d895405a2a1"
-      (reference "R209") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R209") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/294a2533-b2a2-4900-a64d-7f334c6cd901"
       (reference "R301") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
