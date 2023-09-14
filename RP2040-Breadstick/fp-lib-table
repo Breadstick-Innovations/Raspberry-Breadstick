@@ -17,4 +17,5 @@
   (lib (name "USB-C Molex")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/USB-C-2171790001/footprints.pretty")(options "")(descr ""))
   (lib (name "74AXP2T45DCH")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/74AXP2T45DCH")(options "")(descr ""))
   (lib (name "LM66200DRLR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/LM66200DRLR")(options "")(descr ""))
+  (lib (name "AP2112K-3")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/AP2112K-3.3TRG1")(options "")(descr ""))
 )
