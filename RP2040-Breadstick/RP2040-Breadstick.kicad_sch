@@ -1246,7 +1246,7 @@
     (path "/faf66614-6995-4c3d-a4b1-263cb2a9ffd9"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/85c0125c-f402-4506-81b7-39b3602f011d"
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/998b0d69-28ce-4f6c-91e2-da05855f72c4"
       (reference "#PWR0201") (unit 1) (value "GND") (footprint "")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/2d9e0ac7-3201-46d8-9e8d-34026b983696"
@@ -1264,7 +1264,7 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/157fdb2e-81bd-4814-aea4-8a71498b4bf4"
       (reference "#PWR0206") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/99a4bafa-e138-47aa-b7d3-ab4c06f00451"
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/71b81aac-85c9-439a-96c4-dc3080b6c7d8"
       (reference "#PWR0207") (unit 1) (value "GND") (footprint "")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/512b053f-a86f-4249-bd13-2add8ac36e95"
@@ -1420,8 +1420,8 @@
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/4e3f3466-a1c3-4962-b271-a7914806191a"
       (reference "C204") (unit 1) (value "10uF 1206 6V3") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/1fdcd73b-f25c-43dc-b89e-9c8a380a353a"
-      (reference "C205") (unit 1) (value "1uF 0402 10V") (footprint "_Breadstick_Footprints:Perfect_0402_Cap")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/eb552f5e-0496-49da-b417-3c001431fb94"
+      (reference "C205") (unit 1) (value "1uF 0603 10V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/bcc23349-3d83-4c84-aa18-01d8fa8afcba"
       (reference "C206") (unit 1) (value "10uF 1206 6.3V") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -1658,10 +1658,10 @@
       (reference "R202") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/a9cdf457-c88c-4634-979f-912b08573a51"
-      (reference "R203") (unit 1) (value "10k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R203") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/cd68e857-91e5-40d5-aa15-1bd3aed31d8a"
-      (reference "R204") (unit 1) (value "1k 0201") (footprint "_Breadstick_Footprints:Perfect_0201_Resistor")
+      (reference "R204") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/050f1da9-e1c6-4f6c-a206-279df362e93c"
       (reference "R205") (unit 1) (value "27Ω 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -1685,10 +1685,10 @@
       (reference "R302") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/db5f85b6-efb5-4ef4-914d-637b8c733210"
-      (reference "R501") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R501") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/0201bd49-468c-4d74-9013-52f4ed88fc27"
-      (reference "R502") (unit 1) (value "1k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R502") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/d76bf487-cf6a-470f-9995-5ba35bbe193f/547af921-e4cb-46c8-8020-60d0a32d745d"
       (reference "R601") (unit 1) (value "5k1 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -1696,11 +1696,11 @@
     (path "/d76bf487-cf6a-470f-9995-5ba35bbe193f/b25580ea-7652-4c2f-9e06-fdd31deae61d"
       (reference "R602") (unit 1) (value "5k1 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/37faa16d-a676-4113-9fa4-bb22004eb80c"
-      (reference "SW201") (unit 1) (value "~{USB_BOOT}") (footprint "Switch_R-667995:R-667995")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/250d7a9b-0fe1-4cb6-8df0-1c8c54676cdd"
+      (reference "S201") (unit 1) (value "~{USB-BOOT}") (footprint "KMR731NGLFS:SW_KMR731NGLFS")
     )
-    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/429e7daa-9dda-4a44-a473-af8bba5574cd"
-      (reference "SW202") (unit 1) (value "~{RESET}") (footprint "Switch_R-667995:R-667995")
+    (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/5c87582b-dbd0-4b5b-975e-3cbc916ea3bb"
+      (reference "S202") (unit 1) (value "~{RESET}") (footprint "KMR731NGLFS:SW_KMR731NGLFS")
     )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/5f52cf76-0c74-42b1-8d69-2e6de12b0324"
       (reference "U201") (unit 1) (value "RP2040") (footprint "QFN40P700X700X90-57N")
