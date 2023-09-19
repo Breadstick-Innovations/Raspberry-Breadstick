@@ -1237,12 +1237,6 @@
   )
 
   (symbol_instances
-    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/eb8eecc3-6d2b-486d-af92-5bc9e94b20a7"
-      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/59995a24-3dff-4940-b1df-4ee503224c7f"
-      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
-    )
     (path "/faf66614-6995-4c3d-a4b1-263cb2a9ffd9"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
@@ -1435,9 +1429,6 @@
     (path "/d76bf487-cf6a-470f-9995-5ba35bbe193f/76ed85cd-e42a-4708-a516-7332efcad01e"
       (reference "F601") (unit 1) (value "3A hold, 4s@6A PTSLR12066V300") (footprint "Fuse:Fuse_1206_3216Metric")
     )
-    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/de48c76c-53dc-420b-abb3-7ffcdd91ea7d"
-      (reference "IC301") (unit 1) (value "74AXP2T45DCH") (footprint "74AXP2T45DCH:74AXP2T45DCH")
-    )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/2a4b43ae-8532-419b-b8c3-dd364cdcc09b"
       (reference "IC501") (unit 1) (value "LM66200DRLR") (footprint "SOTFL50P160X60-8L")
     )
@@ -1612,6 +1603,12 @@
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/203d62ae-5655-4668-9b08-b419504d71ca"
       (reference "LED324") (unit 1) (value "SK9822") (footprint "_Breadstick_Footprints:SK9822-2020")
     )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/972d1dd0-6bd0-4f7d-a961-e0d0c99ad948"
+      (reference "Q301") (unit 1) (value "SSM3K56FS,LF") (footprint "Package_TO_SOT_SMD:SOT-416")
+    )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/324ba05f-476f-4538-b3a1-cbf6251c8230"
+      (reference "Q302") (unit 1) (value "SSM3K56FS,LF") (footprint "Package_TO_SOT_SMD:SOT-416")
+    )
     (path "/3e7bcc2a-10c2-45cd-9897-4c0007e1c7fc/c19734e0-0528-45dd-8b60-24a82eaab1cc"
       (reference "R201") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
@@ -1644,6 +1641,12 @@
     )
     (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/d7e78a32-fe29-43cc-87e8-cc620ea565fc"
       (reference "R302") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/a1f6b792-c20c-420b-8526-4f506a41d1f5"
+      (reference "R303") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/964c60fe-ac5c-4a4d-a168-812dbf3a649c/96b68615-4379-4be8-8e06-3f1e1435af7e"
+      (reference "R304") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4bb2fe32-0276-4922-8b52-341100702add/db5f85b6-efb5-4ef4-914d-637b8c733210"
       (reference "R501") (unit 1) (value "10k 0603") (footprint "Resistor_SMD:R_0603_1608Metric")
