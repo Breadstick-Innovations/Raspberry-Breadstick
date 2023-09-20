@@ -19,4 +19,5 @@
   (lib (name "LM66200DRLR")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/LM66200DRLR")(options "")(descr ""))
   (lib (name "AP2112K-3")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/AP2112K-3.3TRG1")(options "")(descr ""))
   (lib (name "KMR731NGLFS")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/KMR731NGLFS")(options "")(descr ""))
+  (lib (name "T491A106K010AT")(type "KiCad")(uri "${KIPRJMOD}/Snap EDA/T491A106K010AT")(options "")(descr ""))
 )
