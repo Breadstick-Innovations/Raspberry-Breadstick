@@ -2,7 +2,7 @@
 
   (uuid bbac88a3-052e-48c6-a88e-24f6ead67ff5)
 
-  (paper "A4")
+  (paper "USLetter")
 
   (title_block
     (title "Raspberry Breadstick")
@@ -1670,7 +1670,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid a44863ab-07f4-45ba-8720-775bc7d43614)
   )
-  (hierarchical_label "IMU_INT2" (shape input) (at 259.08 76.2 0) (fields_autoplaced)
+  (hierarchical_label "IMU_INT2" (shape input) (at 255.27 76.2 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid a5249fbf-62a7-40da-bf62-0719e7790be3)
   )
@@ -1686,7 +1686,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid bbba8429-162b-47a4-9be0-f309b3d4c3fd)
   )
-  (hierarchical_label "IMU_INT1" (shape input) (at 259.08 73.66 0) (fields_autoplaced)
+  (hierarchical_label "IMU_INT1" (shape input) (at 255.27 73.66 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c8d9fd31-a0bd-4ddf-b6b7-5bec6da8e428)
   )

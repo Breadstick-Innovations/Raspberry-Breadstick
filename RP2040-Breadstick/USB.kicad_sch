@@ -2,7 +2,7 @@
 
   (uuid f7a1bbfa-498d-447a-819f-032232a7aa5c)
 
-  (paper "A4")
+  (paper "USLetter")
 
   (title_block
     (title "Raspberry Breadstick")
