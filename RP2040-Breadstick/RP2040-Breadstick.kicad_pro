@@ -468,7 +468,7 @@
       "step": "RP2040-Breadstick.step",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "${BREADSTICK_USER_LIB}/Breadstick-Library/Breadstick_Page_Layout v3 v7.0.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 500,
