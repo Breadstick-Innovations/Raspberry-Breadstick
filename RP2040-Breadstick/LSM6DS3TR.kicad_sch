@@ -306,10 +306,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7222cca5-494c-4f9a-9e1d-b9bbbfc59530)
   )
-  (text "Add more capacitance,\nIMUs are sensitive." (at 162.56 102.87 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 89f3b906-6903-4fe8-b881-baa0d0691704)
-  )
 
   (hierarchical_label "IMU_SCL" (shape input) (at 97.79 88.9 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))

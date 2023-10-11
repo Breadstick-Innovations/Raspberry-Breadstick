@@ -1371,10 +1371,13 @@
     (uuid ffb6a057-f710-45f4-ab5f-8b038c5714c3)
   )
 
-  (text "Need to add caps\nand some considerations\nneed to be made first but\nthis is essentially what\nneeds to happen here."
-    (at 90.17 64.77 0)
+  (text "Rename Pins to Map GPIO to Pin Numbers" (at 207.01 55.88 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid a57ef8dc-38fa-43f9-b56c-4c9debfe9aab)
+    (uuid 5152930d-f861-42f4-bb14-8504101079a5)
+  )
+  (text "connect reset pin to sw" (at 15.24 66.04 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 9e5f8de0-da62-411e-bf57-226e2d31765d)
   )
 
   (label "MCU_USB_D+" (at 143.51 116.84 180) (fields_autoplaced)
