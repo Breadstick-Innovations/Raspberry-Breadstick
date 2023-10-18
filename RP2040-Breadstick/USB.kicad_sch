@@ -1096,7 +1096,7 @@
     (property "Value" "USB_C_Receptacle_USB2.0" (at 88.9 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 92.71 100.33 0)
+    (property "Footprint" "USB-C Molex:USB-C-2171790001" (at 92.71 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (at 92.71 135.89 0)
