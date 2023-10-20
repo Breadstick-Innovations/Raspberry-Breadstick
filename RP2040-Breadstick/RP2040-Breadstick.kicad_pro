@@ -465,7 +465,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "RP2040-Breadstick.step",
+      "step": "Gerbers_Images_BOM/RP2040-Breadstick.step",
       "vrml": ""
     },
     "page_layout_descr_file": "Breadstick_Page_Layout v3 v7.0.kicad_wks"

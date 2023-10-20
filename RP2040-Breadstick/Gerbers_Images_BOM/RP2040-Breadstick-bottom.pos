@@ -1,0 +1,29 @@
+### Footprint positions - created on Thu Oct 19 22:50:05 2023 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                               PosX       PosY       Rot  Side
+J111      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100   -25.4000  180.0000  bottom
+J112      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100   -40.6400  180.0000  bottom
+J113      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100   -55.8800  180.0000  bottom
+J114      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100   -71.1200  180.0000  bottom
+J115      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100   -86.3600  180.0000  bottom
+J116      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100  -101.6000  180.0000  bottom
+J117      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100  -116.8400  180.0000  bottom
+J118      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100  -132.0800  180.0000  bottom
+J119      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical    -3.8100  -147.3200  180.0000  bottom
+J120      Conn_01x02             PinHeader_1x02_P2.54mm_Vertical    -3.8100  -157.4800    0.0000  bottom
+J121      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100   -25.4000  180.0000  bottom
+J122      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100   -40.6400  180.0000  bottom
+J123      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100   -55.8800  180.0000  bottom
+J124      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100   -71.1200  180.0000  bottom
+J125      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100   -86.3600  180.0000  bottom
+J126      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100  -101.6000  180.0000  bottom
+J127      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100  -116.8400  180.0000  bottom
+J128      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100  -132.0800  180.0000  bottom
+J129      Conn_01x01             PinHeader_1x01_P2.54mm_Vertical     3.8100  -147.3200  180.0000  bottom
+J130      Conn_01x02             PinHeader_1x02_P2.54mm_Vertical     3.8100  -157.4800    0.0000  bottom
+J501      Conn_01x05             PinHeader_1x05_P2.54mm_Vertical    -3.8100    -7.6200  180.0000  bottom
+J502      Conn_01x05             PinHeader_1x05_P2.54mm_Vertical     3.8100    -7.6200  180.0000  bottom
+REF**     Breadstick_B_Silk_5mm  Breadstick_B_Silk_5mm               0.0000    -0.7620  -90.0000  bottom
+## End
