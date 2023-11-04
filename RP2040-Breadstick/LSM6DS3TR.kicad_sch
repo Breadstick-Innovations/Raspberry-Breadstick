@@ -300,6 +300,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7222cca5-494c-4f9a-9e1d-b9bbbfc59530)
   )
+  (text "LSM6DSMTR" (at 116.84 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e32394e8-c1d5-4736-91dd-b411f8c11375)
+  )
 
   (hierarchical_label "IMU_SCL" (shape input) (at 97.79 88.9 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
