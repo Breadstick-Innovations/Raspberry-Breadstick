@@ -1,4 +1,5 @@
 # Raspberry Breadstick
+An RP2040 development board compatible with CircuitPython, MicroPython, and Arduino!
 ## Get Yours Here→ https://www.crowdsupply.com/breadstick-innovations/raspberry-breadstick
 ![Rev0.2-17](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Renders/Rev0.2-17.jpg)
 ## A Breadstick for your Breadboard!
@@ -8,6 +9,8 @@
 - 6-Axis IMU LSM6DSMTR (3-Axis Accellerometer + 3-Axis Gyroscope)
 ![Rev0.2-Ortho-5](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Renders/Rev0.2-Ortho-05.jpg)
 ## Schematic
+### RP2040 GPIO to Pin Definitions
+![Pinout](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Schematic/Pinout.jpg)
 ### Overview
 ![Schematic_Pg1](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Schematic/Schematic_Pg1.jpg)
 ### Pg2
