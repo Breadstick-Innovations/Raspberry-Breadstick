@@ -27,3 +27,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+RP2040-Breadstick/~RP2040-Breadstick.kicad_pcb.lck
+RP2040-Breadstick/~RP2040-Breadstick.kicad_sch.lck

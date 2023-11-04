@@ -38,7 +38,7 @@
   (pad "4" smd roundrect (at 0.625 0.4) (size 0.65 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp 62fd7450-d4b9-4ff8-a253-d4fe84a74245))
   (pad "5" smd roundrect (at 0.625 0) (size 0.65 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp cfee6a30-8392-4b95-afc6-b9d992173f75))
   (pad "6" smd roundrect (at 0.625 -0.4) (size 0.65 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.03) (tstamp 11250ad8-3722-467e-b9c0-3f871702e38b))
-  (pad "7" smd rect (at 0 0) (size 0.3 0.94) (layers "F.Cu" "F.Mask") (tstamp e60135aa-f13b-4d7f-a02d-9f5e9a476e7c))
+  (pad "EP" smd rect (at 0 0) (size 0.3 0.94) (layers "F.Cu" "F.Mask") (tstamp e60135aa-f13b-4d7f-a02d-9f5e9a476e7c))
   (model "${KIPRJMOD}/Snap EDA/MIC5528-3.3YMT-TR/MIC5528-3.3YMT-TR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
