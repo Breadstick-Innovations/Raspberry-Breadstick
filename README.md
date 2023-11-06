@@ -9,7 +9,9 @@ Rev0.2 Render - Small Production Run Underway!
 - 24 SK9822 addressable RGB LEDs (Clock + Data) that are DotStar compatible
 - 6-Axis IMU LSM6DSMTR (3-Axis Accellerometer + 3-Axis Gyroscope)
 ![Rev0.2-Ortho-5](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Renders/Rev0.2-Ortho-05.jpg)
-Rev0.2 Render - Small Production Run Underway!
+![Rev0.2-25](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Renders/Rev0.2-25.jpg)
+![Rev0.2-Ortho-06](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Renders/Rev0.2-Ortho-06.jpg)
+Rev0.2 Renders - Small Production Run Underway!
 ## Rev0.1 Demo Video
 [![Rev0.1 Prototype Youtube](https://img.youtube.com/vi/IzdXLQIp9vg/0.jpg)](https://www.youtube.com/watch?v=IzdXLQIp9vg)
 ## Schematic
