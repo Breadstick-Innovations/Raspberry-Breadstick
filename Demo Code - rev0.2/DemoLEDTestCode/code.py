@@ -8,8 +8,8 @@ def random_color():
     return random.randrange(0, 7) * 32
 
 num_leds = 24
-data_pin = board.GP17 #change to 17?? from gp19
-clock_pin = board.GP16 #change to 16?? from gp18
+data_pin = board.GP17 #rev0.2 change to 17
+clock_pin = board.GP16 #rev0.2 change to 16
 dots = dotstar.DotStar(clock_pin, data_pin, num_leds, brightness=1.0, auto_write=False)
 
 offset = 0  # Positional offset into color palette to get it to 'spin'
