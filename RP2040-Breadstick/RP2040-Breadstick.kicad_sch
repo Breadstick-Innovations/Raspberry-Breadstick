@@ -449,6 +449,12 @@
     (uuid fd733aa9-1476-43d4-b9a1-c00e51b36bb2)
   )
 
+  (text "pins\nI2C0_SDA_IMU\nI2C0_SCL_IMU\n\nD12	I2C1_SDA\nD11 I2C1_SCL\n\nD3	SPI1_TX/MOSI\nD4	SPI1_SCK\nD5	SPI1_CSn\nD6	SPI1_RX/MISO\n\nD13 UART1_RX\nD14 UART1_TX"
+    (at 62.23 149.86 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6e78fb0b-45c4-4fc6-8dbf-58cd985e24bd)
+  )
+
   (label "~{RESET}" (at 130.81 74.93 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 421d0fef-4155-4107-82ef-c47a51c9726f)
