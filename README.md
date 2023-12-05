@@ -1,6 +1,6 @@
 # Raspberry Breadstick
 An RP2040 development board compatible with CircuitPython, MicroPython, and Arduino!
-## Get Yours Here→ https://www.crowdsupply.com/breadstick-innovations/raspberry-breadstick
+## Campaign Now Live!→ https://www.crowdsupply.com/breadstick-innovations/raspberry-breadstick
 ![Rev0.2-17](https://github.com/mrangen/Raspberry-Breadstick/blob/main/Images/Renders/Rev0.2-17.jpg)
 Rev0.2 Render - Small Production Run Underway!
 ## A Breadstick for your Breadboard!
