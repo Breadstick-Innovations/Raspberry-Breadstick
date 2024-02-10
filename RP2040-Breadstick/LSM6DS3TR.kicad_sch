@@ -6,13 +6,13 @@
 
   (title_block
     (title "Raspberry Breadstick")
-    (date "2023-11-04")
-    (rev "0.2")
+    (date "2024-02-10")
+    (rev "1.0")
     (company "J & R Creative Technologies Inc.")
     (comment 1 "@RangenMichael")
     (comment 2 "https://twitter.com/RangenMichael")
     (comment 3 "Apache-2.0 License")
-    (comment 4 "https://github.com/mrangen/Raspberry-Breadstick")
+    (comment 4 "https://github.com/Breadstick-Innovations/Raspberry-Breadstick")
     (comment 5 "https://shop.breadstick.ca/")
   )
 
@@ -361,7 +361,7 @@
     (pin "1" (uuid 6a08bebb-1fdd-49bd-b294-f54b1bca35d5))
     (pin "2" (uuid bfa95e2d-6e01-4996-b7ac-90620260af9d))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8/b54c3862-639e-4b03-9fc6-28e0c3c13c33"
           (reference "C402") (unit 1)
         )
@@ -386,7 +386,7 @@
     )
     (pin "1" (uuid c239695d-6b6a-4f6c-9026-68383573c80e))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8/b54c3862-639e-4b03-9fc6-28e0c3c13c33"
           (reference "#PWR0404") (unit 1)
         )
@@ -411,7 +411,7 @@
     )
     (pin "1" (uuid 34ea816a-3cae-4102-9514-f8553b619c81))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8/b54c3862-639e-4b03-9fc6-28e0c3c13c33"
           (reference "#PWR0402") (unit 1)
         )
@@ -436,7 +436,7 @@
     )
     (pin "1" (uuid bd7a92da-5573-4c94-968b-8d8d0fb196f1))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8/b54c3862-639e-4b03-9fc6-28e0c3c13c33"
           (reference "#PWR0401") (unit 1)
         )
@@ -504,7 +504,7 @@
     (pin "8" (uuid a3bb83fb-414a-4040-ad65-ae998d5a9554))
     (pin "9" (uuid 67cf7a94-4e18-4295-95b0-f88d6059692d))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8/b54c3862-639e-4b03-9fc6-28e0c3c13c33"
           (reference "U401") (unit 1)
         )

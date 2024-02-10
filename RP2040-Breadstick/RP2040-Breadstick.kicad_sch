@@ -6,13 +6,13 @@
 
   (title_block
     (title "Raspberry Breadstick")
-    (date "2023-11-04")
-    (rev "0.2")
+    (date "2024-02-10")
+    (rev "1.0")
     (company "J & R Creative Technologies Inc.")
     (comment 1 "@RangenMichael")
     (comment 2 "https://twitter.com/RangenMichael")
     (comment 3 "Apache-2.0 License")
-    (comment 4 "https://github.com/mrangen/Raspberry-Breadstick")
+    (comment 4 "https://github.com/Breadstick-Innovations/Raspberry-Breadstick")
     (comment 5 "https://shop.breadstick.ca/")
   )
 
@@ -511,7 +511,7 @@
     )
     (pin "1" (uuid 700354a2-6aab-4b0e-8252-31efccadf7a1))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J124") (unit 1)
         )
@@ -536,7 +536,7 @@
     )
     (pin "1" (uuid 7f5eaefa-ab20-42bc-b2ed-b37b660d5dac))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "#PWR0509") (unit 1)
         )
@@ -571,7 +571,7 @@
     (pin "1" (uuid a287932a-401a-4eda-b671-4f70cb54b039))
     (pin "2" (uuid 599ba586-b18b-4083-a69a-2441fd1cc03a))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J130") (unit 1)
         )
@@ -602,7 +602,7 @@
     )
     (pin "1" (uuid 75c00bf4-8a12-4e73-a4b9-59ff0994da6c))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J115") (unit 1)
         )
@@ -637,7 +637,7 @@
     (pin "1" (uuid f89e3c67-501a-428c-b0f2-8ad914a788c4))
     (pin "2" (uuid e72103b9-fed5-412b-bcd6-88a3e15cbbba))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J120") (unit 1)
         )
@@ -668,7 +668,7 @@
     )
     (pin "1" (uuid 4fb9b263-f3fa-4edb-99da-994febb05032))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J117") (unit 1)
         )
@@ -699,7 +699,7 @@
     )
     (pin "1" (uuid c3914d31-cb7e-45fb-9618-98963696ae6c))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J111") (unit 1)
         )
@@ -730,7 +730,7 @@
     )
     (pin "1" (uuid 3ad69ed1-3a30-403f-aa3b-3e492c32b58b))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J116") (unit 1)
         )
@@ -761,7 +761,7 @@
     )
     (pin "1" (uuid 8f59b35c-f307-4849-99c7-eb00bb567ae9))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J125") (unit 1)
         )
@@ -792,7 +792,7 @@
     )
     (pin "1" (uuid cf27e0dc-1548-4a0d-a795-a62493979f76))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J114") (unit 1)
         )
@@ -823,7 +823,7 @@
     )
     (pin "1" (uuid a2ad4a50-5665-4336-930f-56c982bdfa35))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J119") (unit 1)
         )
@@ -861,7 +861,7 @@
     (pin "4" (uuid 4864aa95-dc16-49bc-9436-de32ee72b455))
     (pin "5" (uuid 2d3e9483-b550-48c7-8ca7-8b4d07294ac4))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J502") (unit 1)
         )
@@ -892,7 +892,7 @@
     )
     (pin "1" (uuid 5b51415b-28d2-4312-8f51-b257620f011b))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J122") (unit 1)
         )
@@ -923,7 +923,7 @@
     )
     (pin "1" (uuid 412c3651-aef4-4f5a-bc8a-bfb8fdee8b9c))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J112") (unit 1)
         )
@@ -954,7 +954,7 @@
     )
     (pin "1" (uuid c63f259d-c909-4d34-b08a-171e6e03803b))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J127") (unit 1)
         )
@@ -992,7 +992,7 @@
     (pin "4" (uuid a6403c64-3425-4b21-8d75-d344945a7783))
     (pin "5" (uuid 41a21bd7-5094-416c-8c4b-cb0c5ec9569b))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J501") (unit 1)
         )
@@ -1023,7 +1023,7 @@
     )
     (pin "1" (uuid 13987b5b-b4b3-4994-ba21-3d4e6869064d))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J118") (unit 1)
         )
@@ -1054,7 +1054,7 @@
     )
     (pin "1" (uuid b1ebceda-9466-4cd3-bfa9-fa5e522a24f7))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J123") (unit 1)
         )
@@ -1085,7 +1085,7 @@
     )
     (pin "1" (uuid a38cddb8-a75d-4e88-b23c-1eaba71fe7ce))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J121") (unit 1)
         )
@@ -1116,7 +1116,7 @@
     )
     (pin "1" (uuid 08ca6724-d2be-4a88-85a3-ebf52cb4797e))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J128") (unit 1)
         )
@@ -1147,7 +1147,7 @@
     )
     (pin "1" (uuid 17d52068-3cb1-46c9-8fa2-c4d8754aa1c4))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J113") (unit 1)
         )
@@ -1172,7 +1172,7 @@
     )
     (pin "1" (uuid 6fecb779-8566-4491-a5d8-9990fb2bb821))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "#PWR0508") (unit 1)
         )
@@ -1203,7 +1203,7 @@
     )
     (pin "1" (uuid f260eef2-0240-40f3-9394-e37fa2d0e575))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J129") (unit 1)
         )
@@ -1234,7 +1234,7 @@
     )
     (pin "1" (uuid 5966c522-0a75-45ed-b0db-2a6f6be0dd4a))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "J126") (unit 1)
         )
@@ -1259,7 +1259,7 @@
     )
     (pin "1" (uuid 6751e9b2-09d7-4057-885c-ef07a5ce9eb2))
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8"
           (reference "#PWR0103") (unit 1)
         )
@@ -1390,7 +1390,7 @@
       (uuid dc263959-87fb-4017-a08f-07fa2747553f)
     )
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8" (page "2"))
       )
     )
@@ -1423,7 +1423,7 @@
       (uuid 222fda82-effb-4c26-aa46-b2d8293410fd)
     )
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8" (page "5"))
       )
     )
@@ -1456,7 +1456,7 @@
       (uuid aa232d8c-031c-4bd0-b1ba-3930bfe12b3f)
     )
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8" (page "3"))
       )
     )
@@ -1485,7 +1485,7 @@
       (uuid b93c815b-6733-414d-9cf3-2a132a4a70e5)
     )
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8" (page "4"))
       )
     )
@@ -1514,7 +1514,7 @@
       (uuid ce4da36f-da72-4c45-b1e3-6f5a9c7cd4f7)
     )
     (instances
-      (project "RP2040-Breadstick"
+      (project "pcb2blender_tmp"
         (path "/c1b11207-7c0a-49b3-a41d-2fe677d5f3b8" (page "6"))
       )
     )
