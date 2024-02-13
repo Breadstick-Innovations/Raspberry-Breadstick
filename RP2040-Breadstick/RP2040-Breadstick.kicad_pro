@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.15239999999999998
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -465,7 +465,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "Gerbers_Images_BOM/RP2040-Breadstick.step",
+      "step": "RaspberryBreadstickRev1.0_ProductionFiles/RP2040-Breadstick.step",
       "vrml": ""
     },
     "page_layout_descr_file": "Breadstick_Page_Layout v3 v7.0.kicad_wks"
